@@ -12,10 +12,10 @@ Detect anomalies or unusual activities
 Build interactive dashboards for insights
 
 ## **Tools & Technologies:*
-Excel (Data Cleaning, Pivot Tables, Power Query)
+
 Power BI (Dashboard & Visualization)
-SQL (if used)
-Python (optional, if used)
+SQL 
+Python 
 
 ## **Key Analysis Performed:*
 Data Cleaning & Transformation
